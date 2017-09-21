@@ -1,0 +1,1 @@
+<a href="http://webspace.ship.edu/msrenault/fibonacci/fib.htm">This webpage </a> is particularly helpful to get hints to solve these problems. Some properties of fibonacci numbers are quite useful. The author of the webpage has a <a href="http://webspace.ship.edu/msrenault/fibonacci/FibThesis.pdf"> paper </a> on fibonacci numbers as well that you may read if it interests you. 
