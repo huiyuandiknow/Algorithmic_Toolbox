@@ -1,1 +1,0 @@
-http://webspace.ship.edu/msrenault/fibonacci/fib.htm is a particularly helpful website to get hints to solve these problems. Some properties of fibonacci numbers are quite useful.  
